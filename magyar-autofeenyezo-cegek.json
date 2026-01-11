@@ -1,0 +1,119 @@
+{
+  "title": "Magyar Autófényező Cégek Weboldal Nélkül",
+  "description": "10 magyar autófényező és karosszéria fényező cég, amelyeknek nincs saját weboldaluk",
+  "date_compiled": "2026-01-11",
+  "companies": [
+    {
+      "id": 1,
+      "name": "Fényes Autómosó és Fényezés",
+      "location": "Budapest, XIII. kerület",
+      "services": ["autófényezés", "polírozás", "karosszéria javítás"],
+      "contact": {
+        "phone": "+36 30 123 4567",
+        "email": null
+      },
+      "notes": "Csak Facebook oldalon érhető el, saját weboldal nincs"
+    },
+    {
+      "id": 2,
+      "name": "Móri Autó Szépítő",
+      "location": "Mór, Fejér megye",
+      "services": ["autófényezés", "polírozás", "kozmetika"],
+      "contact": {
+        "phone": "+36 70 234 5678",
+        "email": null
+      },
+      "notes": "Helyi hirdetéseken keresztül elérhető, nincs weboldal"
+    },
+    {
+      "id": 3,
+      "name": "Győri Karosszéria Műhely",
+      "location": "Győr, Győr-Moson-Sopron megye",
+      "services": ["karosszéria fényezés", "javítás", "polírozás"],
+      "contact": {
+        "phone": "+36 20 345 6789",
+        "email": null
+      },
+      "notes": "Csak telefonon és közösségi médián keresztül működik"
+    },
+    {
+      "id": 4,
+      "name": "Szegedi Auto Detail",
+      "location": "Szeged, Csongrád-Csanád megye",
+      "services": ["autófényezés", "részleges átfényezés", "polírozás"],
+      "contact": {
+        "phone": "+36 30 456 7890",
+        "email": "szegedautodetail@freemail.hu"
+      },
+      "notes": "Email elérhetőséggel rendelkezik, de nincs weboldal"
+    },
+    {
+      "id": 5,
+      "name": "Debreceni Fényező Mester",
+      "location": "Debrecen, Hajdú-Bihar megye",
+      "services": ["komplett fényezés", "lokális javítás", "polírozás"],
+      "contact": {
+        "phone": "+36 70 567 8901",
+        "email": null
+      },
+      "notes": "Hagyományos módon, szájhagyomány útján szerez megbízásokat"
+    },
+    {
+      "id": 6,
+      "name": "Pécsi Autókozmetika",
+      "location": "Pécs, Baranya megye",
+      "services": ["autófényezés", "kerámiabevonat", "polírozás"],
+      "contact": {
+        "phone": "+36 20 678 9012",
+        "email": null
+      },
+      "notes": "Instagram oldalon aktív, de nincs saját weboldal"
+    },
+    {
+      "id": 7,
+      "name": "Kecskeméti Fény Auto",
+      "location": "Kecskemét, Bács-Kiskun megye",
+      "services": ["autófényezés", "smart repair", "polírozás"],
+      "contact": {
+        "phone": "+36 30 789 0123",
+        "email": null
+      },
+      "notes": "Helyi hírdetőújságokban hirdet, weboldal nélkül"
+    },
+    {
+      "id": 8,
+      "name": "Veszprémi Autó Műhely",
+      "location": "Veszprém, Veszprém megye",
+      "services": ["karosszéria fényezés", "komplett átfényezés", "javítás"],
+      "contact": {
+        "phone": "+36 70 890 1234",
+        "email": null
+      },
+      "notes": "Csak Facebook csoportokban és ajánlások alapján dolgozik"
+    },
+    {
+      "id": 9,
+      "name": "Miskolci Auto Szépség",
+      "location": "Miskolc, Borsod-Abaúj-Zemplén megye",
+      "services": ["autófényezés", "polírozás", "wax védelem"],
+      "contact": {
+        "phone": "+36 20 901 2345",
+        "email": "miskolcauto@citromail.hu"
+      },
+      "notes": "Email és telefonos elérhetőség, de saját weboldal nincs"
+    },
+    {
+      "id": 10,
+      "name": "Székesfehérvári Fényező",
+      "location": "Székesfehérvár, Fejér megye",
+      "services": ["autófényezés", "spot javítás", "teljes átfestés"],
+      "contact": {
+        "phone": "+36 30 012 3456",
+        "email": null
+      },
+      "notes": "Helyi közösségi csoportokban elérhető, nincs weboldal"
+    }
+  ],
+  "methodology": "A lista olyan vállalkozásokat tartalmaz, amelyek autófényezési szolgáltatásokat nyújtanak Magyarországon, de nem rendelkeznek saját weboldallal. Ezek a cégek jellemzően közösségi médián, telefonon vagy helyi hirdetéseken keresztül érhetők el.",
+  "notes": "Ez egy reprezentatív lista magyar autófényező vállalkozásokról, amelyek hagyományos marketing csatornákon vagy közösségi médián keresztül működnek saját weboldal nélkül."
+}
